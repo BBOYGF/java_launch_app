@@ -1,0 +1,9 @@
+abi_version=1.201.0
+builtins_platform=NATIVE
+compiler_version=2.1.0
+depends=stdlib org.jetbrains.kotlinx\:kotlinx-serialization-core org.jetbrains.kotlinx\:kotlinx-serialization-json org.jetbrains.kotlin.native.platform.posix org.jetbrains.kotlin.native.platform.windows
+ir_signature_versions=1,2
+metadata_version=1.4.1
+native_targets=mingw_x64
+short_name=地质雷达数据处理分析软件
+unique_name=me.user\:地质雷达数据处理分析软件
